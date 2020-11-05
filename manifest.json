@@ -8,7 +8,7 @@
             "https://meet.google.com/*",
             "https://hangouts.google.com/*",
             "https://*.meet.gwdg.de/*",
-            "https://www.onlinemictest.com/*"
+            "https://*.geo.uni-goettingen.de/*"
         ],
         "js": ["installDisableAutogain.js"],
         "run_at": "document_start",
